@@ -1,0 +1,26 @@
+{
+  "name": "array-counter",
+  "version": "0.0.1",
+  "description": "Exploded Array Incrementer Challenge",
+  "main": "array_counter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --bail --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devleague/array-counter.git"
+  },
+  "author": "Dev League LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devleague/array-counter/issues"
+  },
+  "homepage": "https://github.com/devleague/array-counter",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
